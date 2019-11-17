@@ -1,3 +1,9 @@
+/*
+ * An abstract class for describing an abstract seat booking. It has an abstract
+ * method getTicketPrice intended to be overridden by subclasses. It holds a row
+ * (char) and column (int) of where the seat is positioned in the movie theatre
+ * and a boolean to indicate whether the seat is complementary (free).
+ */
 package Reservation;
 
 /**

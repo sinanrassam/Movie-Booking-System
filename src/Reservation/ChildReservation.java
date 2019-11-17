@@ -1,10 +1,7 @@
-package Reservation;
-
 /*
-* To change this license header, choose License Headers in Project Properties.
-* To change this template file, choose Tools | Templates
-* and open the template in the editor.
-*/
+ * Subclass of SeatReservation for allowing the seat to be filled by a child
+ */
+package Reservation;
 
 /**
  *

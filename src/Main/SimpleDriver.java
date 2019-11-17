@@ -1,7 +1,8 @@
 package Main;
 
-import static Main.MovieSession.convertIndexToRow;
-import Time.Time;
+import Session.MovieSession;
+import static Session.MovieSession.convertIndexToRow;
+import Session.Time;
 import Reservation.AdultReservation;
 import Reservation.SeatReservation;
 import Reservation.ElderlyReservation;

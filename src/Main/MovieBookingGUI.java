@@ -1,6 +1,10 @@
+/*
+ * A front end GUI for booking movies.
+ */
 package Main;
 
-import Time.Time;
+import Session.MovieSession;
+import Session.Time;
 import Reservation.AdultReservation;
 import Reservation.SeatReservation;
 import Reservation.ElderlyReservation;

@@ -1,6 +1,9 @@
-package Main;
+/*
+ * A class which represents a movie with a name, a rating (R, M or G) and a
+ * screening time using the Time class.
+ */
+package Session;
 
-import Time.Time;
 import Reservation.AdultReservation;
 import Reservation.SeatReservation;
 import Reservation.ElderlyReservation;
